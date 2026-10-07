@@ -1,0 +1,1001 @@
+case_id,case_age_years,adjournments,days_since_last_hearing,pleadings_complete,evidence_complete,arguments_complete,pending_ia,connected_case,adr_possible,disposal_ready,disposal_probability,disposal_readiness_score,priority_explanation,recommended_action
+NY10000,5.7,14,467,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10001,14.3,11,69,1,1,1,0,1,0,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10002,11.0,15,416,0,1,1,0,1,0,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10003,9.1,18,428,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10004,2.5,7,449,0,1,1,0,1,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10005,2.5,16,87,0,0,1,1,0,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10006,1.1,4,101,0,1,0,0,0,0,0,0.01,1.0,Evidence complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10007,13.0,15,8,0,0,1,0,0,0,0,0.01,1.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10008,9.1,5,333,0,0,0,1,0,1,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10009,10.7,7,200,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10010,0.5,17,87,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10011,14.6,11,43,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10012,12.5,14,385,1,1,1,0,1,1,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10013,3.3,8,109,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10014,2.9,12,435,0,1,1,0,1,1,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10015,2.9,14,408,0,1,1,0,0,1,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10016,4.7,9,483,0,0,1,1,1,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10017,8.0,15,152,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10018,6.6,6,17,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10019,4.5,16,133,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10020,9.3,6,148,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10021,2.3,13,277,1,1,1,0,1,0,1,0.98,98.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10022,4.5,14,232,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10023,5.6,6,314,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10024,6.9,8,415,1,1,1,0,1,0,1,0.93,93.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10025,11.8,18,366,1,1,0,0,0,0,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10026,3.2,15,228,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10027,7.8,7,139,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10028,9.0,17,436,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10029,0.9,17,399,1,0,1,0,0,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10030,9.2,19,211,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10031,2.7,6,391,1,1,1,0,0,1,1,0.93,93.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10032,1.2,2,499,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10033,14.2,17,28,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10034,14.5,9,51,1,1,1,0,1,1,1,0.85,85.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10035,12.2,6,491,0,1,0,0,1,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10036,4.7,16,442,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10037,1.6,13,261,1,1,0,0,0,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10038,10.3,2,261,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10039,6.7,11,350,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10040,2.0,12,352,0,1,1,0,1,1,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10041,7.5,1,8,0,0,0,1,0,0,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10042,0.7,2,320,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10043,13.7,4,138,0,0,0,1,0,0,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10044,4.0,10,38,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10045,10.0,7,111,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10046,4.8,11,480,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10047,7.9,6,368,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10048,8.3,14,220,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10049,2.9,16,337,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10050,14.5,3,223,1,1,1,0,1,0,1,0.99,99.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10051,11.7,12,136,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10052,14.1,17,256,1,1,0,0,0,0,0,0.04,4.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10053,13.4,0,360,1,1,1,0,0,0,1,0.93,93.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10054,9.0,15,409,1,0,1,0,1,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10055,13.8,12,329,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10056,1.5,9,450,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10057,3.1,11,463,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10058,0.9,1,434,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10059,5.0,2,451,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10060,6.0,9,49,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10061,4.2,1,292,0,0,0,1,1,0,0,0.0,0.0,Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10062,12.5,12,382,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10063,5.5,12,324,1,0,1,0,0,1,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10064,4.4,17,78,1,0,1,0,1,0,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10065,8.2,2,105,1,1,1,0,0,0,1,0.93,93.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10066,2.3,6,169,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10067,12.1,13,217,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10068,1.3,19,378,1,1,0,0,0,0,0,0.03,3.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10069,14.8,16,119,1,0,1,0,1,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10070,11.6,11,190,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10071,3.1,15,255,0,0,1,1,1,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10072,0.3,11,370,0,0,1,1,0,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10073,12.3,14,266,0,0,1,1,1,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10074,10.7,9,149,1,1,0,0,1,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10075,11.0,6,164,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10076,11.6,19,140,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10077,1.3,4,347,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10078,5.5,0,488,1,0,1,1,1,0,0,0.01,1.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10079,1.9,16,258,1,1,1,0,1,0,1,0.96,96.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10080,13.0,2,374,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10081,9.4,12,269,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10082,5.1,13,181,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10083,1.1,17,160,1,0,1,0,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10084,4.8,3,351,1,1,0,0,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final arguments
+NY10085,5.0,17,400,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10086,11.0,4,288,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10087,9.6,15,288,1,1,1,0,0,0,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10088,13.3,0,380,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10089,7.2,13,226,0,1,1,0,0,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10090,2.0,14,11,0,1,1,0,0,0,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10091,10.8,8,10,1,0,1,0,1,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10092,11.5,14,271,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10093,8.5,16,273,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10094,11.6,3,424,1,0,1,0,0,0,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10095,7.5,11,402,0,1,0,0,1,0,0,0.01,1.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10096,7.9,4,183,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10097,6.5,4,457,1,0,1,0,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10098,0.6,10,153,0,0,1,1,0,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10099,1.8,5,488,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10100,0.7,6,315,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10101,9.6,13,334,1,1,1,1,0,0,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10102,4.9,10,124,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10103,7.7,12,473,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10104,13.6,1,114,1,1,1,1,1,1,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10105,3.9,6,278,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10106,6.3,19,414,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10107,11.4,3,468,1,0,1,0,0,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10108,3.6,7,213,1,0,1,0,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10109,1.3,19,172,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10110,4.5,18,288,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10111,2.6,12,435,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10112,14.0,13,174,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10113,12.2,9,113,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10114,9.6,10,376,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10115,13.1,1,405,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10116,12.1,8,483,0,0,0,1,1,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10117,3.0,16,122,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10118,13.4,2,32,1,1,1,1,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10119,8.2,5,222,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10120,12.2,4,119,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10121,13.5,4,39,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10122,4.9,14,497,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10123,1.8,16,268,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10124,3.6,8,233,1,0,1,0,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10125,6.5,2,431,0,0,0,0,1,1,0,0.01,1.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10126,12.3,19,18,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10127,12.9,16,149,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10128,0.3,9,397,0,1,0,1,0,0,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10129,7.8,2,149,1,1,1,0,1,1,1,0.99,99.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10130,6.4,17,126,0,0,1,1,1,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10131,3.5,17,392,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10132,2.0,16,302,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10133,5.2,2,360,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10134,14.2,2,238,0,0,0,1,0,0,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10135,5.0,5,135,0,1,1,0,0,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10136,7.9,12,151,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10137,10.6,14,236,0,0,0,1,1,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10138,5.6,8,224,1,1,0,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10139,14.6,3,203,1,1,1,0,0,0,1,0.98,98.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10140,14.4,13,256,1,0,1,1,1,1,0,0.02,2.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10141,3.9,4,86,1,0,1,0,1,0,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10142,7.6,1,150,1,1,1,0,0,1,1,0.96,96.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10143,4.7,10,235,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10144,4.4,8,345,1,1,1,1,0,1,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10145,0.7,2,22,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10146,9.2,8,348,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10147,7.6,2,285,1,0,1,0,0,1,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10148,1.0,1,269,1,1,1,0,1,0,1,0.94,94.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10149,4.3,11,466,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10150,13.6,9,258,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10151,3.7,8,29,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10152,2.3,14,213,0,0,1,1,0,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10153,7.4,7,463,1,1,1,1,1,1,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10154,14.8,4,436,0,1,0,0,0,1,0,0.01,1.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10155,3.8,10,283,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10156,10.1,1,50,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10157,11.5,14,95,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10158,3.7,5,463,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10159,11.0,7,499,0,0,0,1,0,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10160,5.6,4,407,1,0,1,0,0,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10161,9.6,15,88,1,1,1,0,0,1,1,0.99,99.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10162,9.6,17,44,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10163,8.1,5,461,0,1,1,0,1,0,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10164,1.5,4,278,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10165,12.6,15,171,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10166,4.9,12,421,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10167,3.0,4,189,1,1,1,1,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10168,0.8,12,353,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10169,8.9,16,184,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10170,10.2,17,3,0,1,1,0,1,1,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10171,0.4,7,191,1,1,1,0,0,0,1,0.92,92.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10172,7.8,12,118,0,1,0,0,1,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10173,3.6,18,19,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10174,9.7,2,23,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10175,2.8,7,413,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10176,10.4,1,30,0,0,0,1,1,1,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10177,5.9,7,295,1,0,1,0,1,1,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10178,14.1,12,108,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10179,2.2,12,367,0,1,1,0,0,1,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10180,5.2,0,281,1,1,1,1,1,0,0,0.04,4.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10181,1.9,5,128,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10182,13.9,18,229,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10183,13.2,15,111,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10184,4.0,7,136,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10185,10.0,0,362,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10186,12.3,15,186,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10187,8.4,8,144,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10188,8.0,12,72,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10189,3.8,10,129,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10190,1.6,12,364,0,0,1,1,1,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10191,13.5,9,261,0,0,0,1,0,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10192,13.5,3,3,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10193,9.6,5,449,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10194,5.2,6,388,1,1,0,0,1,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10195,5.4,4,104,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10196,10.9,10,483,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10197,13.5,12,224,1,1,1,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10198,13.3,18,320,1,1,0,0,0,1,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10199,11.7,9,362,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10200,9.7,9,354,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10201,1.4,10,491,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10202,2.6,6,473,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10203,13.5,17,10,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10204,9.2,3,405,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10205,0.3,1,384,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10206,1.7,13,302,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10207,10.0,12,231,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10208,0.3,11,219,1,1,0,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10209,2.6,6,411,0,0,1,0,0,0,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10210,8.3,1,66,1,1,0,0,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10211,10.4,12,425,1,1,0,0,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10212,9.8,13,112,1,1,0,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10213,3.5,16,13,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10214,10.7,8,393,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10215,3.7,16,420,0,0,0,1,0,0,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10216,5.0,7,86,0,1,1,0,0,0,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10217,11.2,1,234,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10218,9.8,12,90,1,0,1,0,1,0,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10219,12.8,2,314,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10220,9.9,15,54,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10221,8.6,5,12,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10222,1.6,18,209,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10223,5.6,6,462,1,1,1,1,1,0,0,0.06,6.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10224,4.1,9,14,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10225,3.8,8,121,1,1,1,1,1,1,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10226,14.6,1,418,0,0,1,0,1,0,0,0.01,1.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10227,6.0,14,437,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10228,13.4,4,377,1,1,0,1,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10229,9.5,3,20,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10230,12.0,19,75,0,0,1,0,1,0,0,0.01,1.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10231,7.6,3,400,0,1,1,0,1,0,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10232,8.7,17,243,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10233,7.5,3,223,1,1,0,0,1,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10234,3.1,16,70,1,1,1,1,0,0,0,0.04,4.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10235,10.9,11,312,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10236,4.4,16,211,1,0,1,0,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10237,0.6,9,101,0,1,0,1,0,0,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10238,9.8,0,186,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10239,2.8,17,132,1,0,1,0,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10240,14.1,17,111,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10241,14.3,13,381,0,1,0,0,1,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10242,13.7,14,132,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10243,5.7,11,20,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10244,0.4,3,394,1,1,0,0,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final arguments
+NY10245,13.9,2,24,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10246,6.5,19,227,1,1,1,0,1,1,1,0.88,88.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10247,14.5,11,154,1,0,0,0,0,1,0,0.01,1.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10248,14.5,6,293,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10249,12.8,10,230,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10250,4.6,0,469,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10251,5.9,5,310,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10252,12.8,14,488,0,1,1,0,1,1,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10253,4.9,14,359,0,1,1,0,0,0,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10254,2.7,18,405,1,1,0,1,0,0,0,0.01,1.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10255,8.4,10,202,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10256,14.1,1,38,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10257,10.5,13,430,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10258,8.6,1,260,1,1,1,0,0,0,1,0.93,93.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10259,1.6,3,188,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10260,9.3,16,57,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10261,14.9,2,429,1,0,1,0,0,0,0,0.07,7.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10262,2.3,12,20,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10263,7.9,8,273,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10264,13.2,6,119,0,1,1,0,1,1,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10265,11.2,14,71,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10266,10.5,10,4,0,0,1,1,1,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10267,10.6,19,221,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10268,5.5,1,14,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10269,4.5,14,3,1,1,0,0,1,0,0,0.03,3.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10270,12.2,13,216,0,0,0,1,1,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10271,12.2,19,229,0,0,0,1,0,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10272,13.0,10,336,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10273,13.7,2,186,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10274,7.8,16,55,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10275,7.6,11,388,1,1,1,0,0,0,1,0.96,96.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10276,12.0,14,376,1,0,1,0,1,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10277,9.8,15,254,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10278,10.6,4,24,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10279,12.0,19,162,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10280,13.4,5,158,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10281,5.2,18,82,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10282,5.8,4,403,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10283,1.6,2,159,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10284,8.8,0,188,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10285,0.7,5,60,1,1,0,0,1,1,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final arguments
+NY10286,7.1,14,403,0,1,0,0,1,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10287,8.2,1,305,1,1,1,0,0,0,1,0.94,94.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10288,4.4,2,319,0,0,0,1,0,0,0,0.0,0.0,Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10289,8.9,16,366,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10290,0.7,11,211,1,0,1,0,1,1,0,0.03,3.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10291,0.8,17,406,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10292,12.4,14,152,0,1,1,0,1,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10293,5.5,11,109,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10294,2.1,15,76,0,0,0,1,1,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10295,7.9,7,30,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10296,11.6,13,314,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10297,3.4,16,486,0,0,0,1,1,1,0,0.01,1.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10298,9.4,7,117,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10299,1.5,14,415,0,1,0,1,1,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10300,1.0,13,356,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10301,8.1,17,192,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10302,8.2,19,19,1,1,0,0,1,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10303,9.6,6,432,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10304,10.9,2,173,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10305,14.6,11,228,0,0,1,0,0,0,0,0.01,1.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10306,7.8,2,350,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10307,5.0,19,183,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10308,12.0,13,113,1,1,0,0,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10309,4.2,14,183,1,1,1,0,1,0,1,0.92,92.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10310,6.7,13,481,1,1,0,0,1,0,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10311,1.4,6,146,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10312,0.6,16,319,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10313,14.4,11,116,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10314,12.6,19,113,0,0,1,0,0,1,0,0.01,1.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10315,10.5,3,251,0,0,1,1,1,0,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10316,6.3,8,476,0,0,1,0,0,0,0,0.01,1.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10317,2.8,5,251,0,1,1,0,1,1,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10318,2.5,15,303,1,1,1,0,1,1,1,0.98,98.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10319,3.9,1,459,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10320,8.3,7,313,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10321,10.8,10,118,0,0,0,1,0,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10322,10.0,12,301,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10323,4.3,16,161,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10324,14.3,7,401,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10325,11.1,17,198,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10326,8.4,17,260,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10327,9.3,13,148,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10328,6.4,14,240,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10329,3.9,5,47,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10330,5.5,10,475,1,1,0,0,1,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10331,11.4,12,399,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10332,0.4,0,198,1,1,0,0,0,1,0,0.03,3.0,Pleadings complete | Evidence complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final arguments
+NY10333,1.9,5,47,0,1,1,0,1,1,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10334,0.9,8,78,0,0,1,1,0,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10335,0.8,7,124,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10336,12.9,10,75,1,0,1,0,0,1,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10337,10.6,18,359,0,1,1,0,0,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10338,7.2,8,137,1,0,1,0,1,0,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10339,1.6,16,90,0,1,0,1,1,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10340,7.5,11,400,0,1,1,0,0,1,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10341,7.2,13,325,1,1,1,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10342,2.8,14,61,0,0,1,1,1,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10343,6.6,15,138,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10344,6.1,19,50,1,1,0,0,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10345,9.3,0,259,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10346,9.6,9,461,0,0,1,0,0,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10347,0.9,7,107,1,1,0,0,0,0,0,0.03,3.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10348,5.7,17,113,1,1,0,0,0,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10349,9.5,0,350,1,0,1,0,0,0,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10350,7.6,1,254,1,0,1,0,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10351,12.9,0,118,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10352,9.9,0,493,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10353,2.6,8,198,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10354,1.2,12,337,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10355,9.7,0,365,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10356,0.6,12,51,1,1,1,1,0,1,0,0.05,5.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10357,8.9,19,245,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10358,14.1,6,403,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10359,8.7,1,426,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10360,5.9,5,35,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10361,9.7,6,302,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10362,7.0,13,410,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10363,8.3,17,499,1,1,1,1,1,1,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10364,14.1,14,69,1,1,1,0,0,1,1,0.9,90.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10365,5.9,1,349,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10366,14.4,9,320,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10367,13.6,11,421,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10368,3.1,16,468,1,1,1,1,0,0,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10369,1.2,7,49,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10370,1.7,10,405,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10371,0.5,2,74,0,1,1,0,0,0,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10372,1.6,5,192,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10373,10.3,8,261,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10374,1.3,5,356,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10375,4.9,8,70,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10376,12.7,6,90,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10377,0.5,8,260,1,1,0,0,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10378,12.3,17,126,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10379,4.4,11,231,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10380,1.9,7,295,0,1,1,0,1,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10381,10.5,7,498,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10382,9.5,17,419,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10383,13.2,19,129,1,1,0,0,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10384,11.1,14,280,1,1,0,0,1,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10385,12.1,6,313,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10386,4.4,10,100,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10387,2.8,19,326,0,0,0,1,0,0,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10388,11.3,15,297,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10389,12.1,3,182,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10390,14.9,5,174,0,1,0,0,1,0,0,0.04,4.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10391,6.3,2,316,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10392,5.7,8,364,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10393,11.7,9,188,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10394,5.2,13,57,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10395,14.0,10,31,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10396,12.9,17,84,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10397,6.5,11,152,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10398,11.3,11,473,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10399,11.4,12,36,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10400,1.7,12,213,0,1,0,1,0,0,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10401,13.6,18,414,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10402,7.7,18,408,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10403,12.4,13,364,1,1,1,0,1,1,1,0.98,98.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10404,4.9,3,106,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10405,13.5,12,414,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10406,6.0,7,342,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10407,0.4,18,220,1,1,0,0,0,0,0,0.04,4.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10408,13.6,11,391,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10409,1.6,17,163,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10410,4.9,5,439,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10411,14.3,17,220,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10412,14.3,18,270,0,1,0,0,1,0,0,0.01,1.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10413,8.7,4,120,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10414,9.6,8,394,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10415,6.8,2,336,0,0,1,0,0,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10416,4.5,9,400,0,0,0,1,1,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10417,5.1,18,182,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10418,10.2,2,479,1,1,1,1,0,1,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10419,11.3,14,106,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10420,11.9,0,217,1,0,1,0,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10421,11.9,6,205,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10422,1.5,11,70,1,1,0,0,0,1,0,0.04,4.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10423,7.5,16,44,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10424,1.1,19,329,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10425,8.3,4,301,1,1,1,0,1,1,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10426,6.7,3,228,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10427,13.3,11,184,1,1,1,1,0,0,0,0.06,6.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10428,5.4,19,107,1,0,1,1,1,0,0,0.01,1.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10429,1.9,17,84,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10430,2.3,16,338,0,1,1,0,1,0,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10431,11.5,18,250,1,0,1,0,1,1,0,0.03,3.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10432,9.3,8,363,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10433,1.7,3,441,1,1,1,0,0,1,1,0.92,92.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10434,1.4,1,21,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10435,10.6,3,196,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10436,1.3,1,178,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10437,12.4,14,417,1,1,0,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10438,10.7,1,475,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10439,1.4,3,7,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10440,1.5,5,70,1,1,0,0,0,1,0,0.06,6.0,Pleadings complete | Evidence complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final arguments
+NY10441,14.8,6,127,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10442,5.7,9,399,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10443,5.7,18,466,0,0,1,0,0,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10444,12.2,18,160,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10445,14.2,11,248,1,1,1,1,1,1,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10446,14.8,2,203,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10447,11.3,12,148,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10448,5.8,17,472,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10449,1.4,7,143,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10450,11.7,14,432,1,0,1,0,1,0,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10451,8.5,0,199,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10452,6.5,2,405,0,1,0,0,0,1,0,0.01,1.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10453,13.6,7,426,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10454,1.8,3,154,1,1,1,0,0,1,1,0.95,95.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10455,7.5,15,492,0,1,1,0,1,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10456,0.4,9,376,0,0,1,1,0,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10457,7.1,11,384,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10458,1.0,13,142,0,0,1,1,1,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10459,2.0,13,313,0,0,0,1,1,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10460,1.9,1,165,0,1,1,0,0,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10461,9.8,4,314,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10462,11.2,4,21,1,1,0,0,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10463,8.8,5,82,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10464,14.4,12,69,1,1,1,0,0,1,1,0.93,93.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10465,5.7,8,131,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10466,4.4,14,87,0,1,1,0,1,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10467,13.1,13,218,0,1,1,0,1,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10468,3.5,6,421,0,1,1,0,0,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10469,14.5,19,472,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10470,0.4,1,305,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10471,14.6,6,403,1,1,1,1,1,0,0,0.09,9.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10472,0.8,5,371,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10473,13.4,16,345,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10474,8.0,1,341,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10475,14.9,2,384,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10476,1.3,4,396,1,1,1,1,0,1,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10477,8.4,4,445,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10478,14.5,0,425,1,0,1,1,1,1,0,0.03,3.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10479,7.9,7,161,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10480,9.5,11,178,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10481,10.5,3,117,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10482,6.9,12,196,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10483,9.5,14,383,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10484,8.8,10,490,0,0,1,0,1,1,0,0.01,1.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10485,13.5,9,327,0,1,1,0,1,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10486,0.9,2,86,1,1,1,0,0,0,1,0.84,84.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10487,4.4,13,289,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10488,14.3,15,81,1,0,1,1,0,1,0,0.04,4.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10489,13.4,9,152,1,1,1,0,0,1,1,0.89,89.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10490,6.9,9,61,0,1,1,0,0,1,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10491,9.4,11,61,0,1,1,0,1,0,0,0.05,5.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10492,4.3,8,354,1,1,1,0,0,1,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10493,3.0,0,28,1,1,1,1,0,1,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10494,7.1,4,442,0,1,1,0,0,0,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10495,5.4,19,43,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10496,8.8,7,169,0,1,1,0,0,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10497,1.4,10,423,0,0,1,1,1,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10498,14.6,11,86,1,0,1,1,0,1,0,0.06,6.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10499,14.8,0,177,1,0,1,0,1,0,0,0.03,3.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10500,10.5,19,17,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10501,8.1,10,98,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10502,4.8,4,454,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10503,12.2,14,494,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10504,10.3,4,198,1,1,0,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10505,2.6,11,98,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10506,13.7,4,65,1,0,1,0,0,1,0,0.03,3.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10507,12.4,16,330,1,1,0,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10508,14.3,16,341,1,1,0,0,0,0,0,0.1,10.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10509,10.9,11,5,1,1,1,1,1,0,0,0.05,5.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10510,9.3,14,2,1,0,0,0,0,0,0,0.02,2.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10511,6.4,14,22,1,1,1,1,1,0,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10512,14.0,5,112,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10513,13.0,11,57,0,0,0,1,1,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10514,0.9,19,66,1,1,1,1,1,1,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10515,0.6,17,330,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10516,5.8,13,98,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10517,12.2,1,144,1,1,1,1,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10518,14.8,8,368,1,1,1,0,0,1,1,0.82,82.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10519,2.4,4,435,0,0,0,1,0,1,0,0.0,0.0,Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10520,9.0,19,125,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10521,5.8,0,167,1,0,1,0,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10522,14.6,2,86,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10523,12.7,5,76,1,1,0,0,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10524,12.6,4,344,1,0,1,0,1,1,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10525,7.1,4,495,1,0,0,1,1,0,0,0.01,1.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10526,6.3,0,424,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10527,4.2,16,294,0,1,0,1,1,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10528,1.0,18,444,1,1,0,0,0,1,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10529,13.0,13,59,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10530,12.2,11,138,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10531,15.0,9,99,0,1,0,1,1,1,0,0.01,1.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10532,15.0,19,192,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10533,8.4,17,243,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10534,11.6,10,319,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10535,14.2,1,49,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10536,12.8,17,448,1,1,1,1,1,1,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10537,3.9,6,32,0,0,0,1,1,0,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10538,6.9,14,391,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10539,2.1,10,277,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10540,14.3,17,20,0,0,0,1,0,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10541,9.2,11,154,0,1,1,0,1,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10542,3.6,5,383,0,0,0,1,1,0,0,0.0,0.0,Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10543,10.1,19,68,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10544,9.3,12,366,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10545,5.5,19,372,1,1,1,1,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10546,1.9,15,214,0,0,1,1,0,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10547,10.1,17,143,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10548,7.9,9,376,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10549,11.6,7,232,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10550,7.9,17,213,1,1,0,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10551,12.8,0,79,1,1,0,0,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10552,8.4,7,214,1,1,1,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10553,8.5,5,116,1,1,1,1,0,0,0,0.05,5.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10554,13.2,4,92,1,1,1,0,0,1,1,0.95,95.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10555,6.2,14,270,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10556,2.2,14,411,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10557,0.6,1,381,1,1,1,1,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10558,11.4,0,489,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10559,9.4,10,168,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10560,10.6,9,58,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10561,3.4,17,284,1,1,1,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10562,2.2,17,26,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10563,0.4,16,369,1,0,0,0,0,0,0,0.01,1.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10564,5.4,7,447,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10565,8.9,14,66,1,1,0,0,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10566,6.0,7,409,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10567,6.7,16,248,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10568,13.6,11,254,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10569,5.4,7,387,1,1,0,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10570,7.8,13,456,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10571,11.8,3,44,0,0,0,1,1,0,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10572,6.1,0,97,1,1,1,1,0,0,0,0.05,5.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10573,9.4,0,42,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10574,13.0,18,227,0,1,1,0,0,0,0,0.05,5.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10575,14.3,15,262,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10576,2.4,13,167,1,1,1,1,1,0,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10577,13.9,15,436,1,1,1,0,1,0,1,0.95,95.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10578,7.5,4,279,1,1,1,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10579,4.0,8,89,0,0,0,1,0,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10580,7.0,1,379,0,1,1,0,1,0,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10581,14.7,17,178,1,1,0,1,0,0,0,0.03,3.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10582,7.5,5,427,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10583,5.1,8,403,1,1,1,1,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10584,9.6,0,197,1,1,0,0,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10585,3.8,8,307,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10586,1.3,15,267,0,1,0,1,1,0,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10587,2.1,12,268,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10588,2.1,8,74,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10589,2.4,12,8,1,0,1,1,1,1,0,0.01,1.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10590,2.3,8,408,0,0,0,1,0,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10591,9.7,10,476,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10592,2.9,3,297,0,0,0,1,0,1,0,0.0,0.0,Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10593,5.3,1,164,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10594,13.5,5,485,0,1,0,1,1,1,0,0.01,1.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10595,7.2,13,85,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10596,10.1,3,72,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10597,2.8,5,55,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10598,3.0,18,393,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10599,0.8,5,47,1,1,1,0,0,1,1,0.86,86.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10600,2.7,1,399,1,0,1,0,0,0,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10601,4.3,17,432,1,1,0,1,1,1,0,0.01,1.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10602,2.8,12,238,0,1,1,0,1,0,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10603,1.5,8,104,0,0,1,1,0,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10604,2.0,18,210,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10605,7.0,12,42,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10606,3.3,10,316,1,0,1,0,0,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10607,5.6,0,468,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10608,7.7,6,454,1,1,1,0,1,0,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10609,10.4,14,268,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10610,0.8,0,386,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10611,12.0,11,263,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10612,9.5,6,336,1,0,1,0,0,0,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10613,1.4,14,387,0,0,0,1,1,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10614,13.1,18,365,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10615,13.8,0,259,0,0,0,1,1,0,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10616,1.1,16,283,0,0,1,1,1,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10617,4.3,16,114,0,1,0,1,1,0,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10618,12.1,2,363,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10619,11.3,11,40,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10620,2.9,5,486,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10621,3.3,10,417,0,0,0,1,0,0,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10622,5.7,2,220,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10623,7.4,7,129,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10624,9.4,13,8,1,1,1,0,0,1,1,0.91,91.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10625,5.7,13,101,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10626,7.0,9,416,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10627,11.3,1,380,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10628,0.7,13,176,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10629,3.9,8,107,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10630,10.8,2,101,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10631,13.4,7,260,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10632,7.8,15,478,1,1,1,1,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10633,8.1,1,454,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10634,1.8,5,366,1,1,0,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10635,6.8,11,246,1,1,1,0,0,0,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10636,8.1,4,275,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10637,3.8,1,32,0,0,0,1,0,1,0,0.0,0.0,Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10638,4.2,15,137,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10639,5.8,4,12,1,1,0,1,0,0,0,0.01,1.0,Pleadings complete | Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10640,0.5,14,395,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10641,5.0,11,302,1,1,1,0,1,0,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10642,3.3,3,375,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10643,5.0,14,16,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10644,2.0,10,129,1,1,1,0,0,1,1,0.96,96.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10645,13.4,15,63,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10646,9.0,5,109,0,0,0,1,1,1,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10647,10.3,13,375,1,0,1,0,1,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10648,11.9,17,21,0,1,1,0,1,0,0,0.04,4.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10649,7.6,11,158,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10650,1.5,10,269,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10651,8.1,12,162,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10652,8.9,10,260,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10653,11.2,15,412,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10654,6.6,14,102,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10655,2.1,14,223,0,1,1,0,1,0,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10656,4.4,3,59,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10657,5.6,10,247,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10658,9.8,18,128,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10659,8.6,14,283,1,1,0,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10660,5.5,3,325,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10661,14.8,12,25,0,1,1,0,1,0,0,0.06,6.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10662,9.2,18,131,1,1,1,0,0,0,1,0.94,94.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10663,3.7,1,353,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10664,1.7,13,196,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10665,2.5,3,281,1,1,1,0,1,1,1,1.0,100.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10666,3.8,15,404,0,0,0,1,1,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10667,2.6,19,418,0,0,0,1,1,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10668,3.0,13,154,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10669,4.4,14,382,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10670,2.8,2,133,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10671,13.5,7,227,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10672,1.4,15,189,0,0,1,1,0,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10673,8.0,9,476,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10674,6.3,3,477,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10675,14.7,17,265,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10676,1.9,1,372,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10677,6.1,16,486,1,1,1,0,1,0,1,0.91,91.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10678,14.5,12,434,0,0,1,0,1,0,0,0.01,1.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10679,13.0,3,134,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10680,12.3,10,211,1,1,0,0,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10681,4.0,6,60,0,1,0,1,0,0,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10682,2.7,11,428,0,0,1,1,0,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10683,10.1,9,377,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10684,14.0,6,395,1,1,0,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10685,8.4,12,450,1,0,1,0,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10686,8.7,6,431,1,1,1,0,0,0,1,0.96,96.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10687,4.3,16,364,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10688,11.6,9,364,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10689,3.0,9,457,1,1,1,0,0,0,1,0.98,98.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10690,5.0,3,213,0,1,1,0,1,0,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10691,6.5,19,216,1,1,0,0,1,1,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10692,7.7,3,226,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10693,3.8,6,470,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10694,1.9,0,131,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10695,9.2,11,76,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10696,4.5,12,476,0,0,1,1,0,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10697,8.8,9,286,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10698,2.5,14,474,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10699,7.3,12,496,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10700,8.1,8,277,1,1,0,0,0,1,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10701,1.0,8,156,1,1,1,0,1,0,1,0.94,94.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10702,5.2,14,248,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10703,2.2,9,218,0,1,0,0,1,0,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10704,1.1,9,190,1,1,1,0,0,1,1,0.9,90.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10705,14.9,7,417,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10706,5.0,15,469,1,1,1,0,0,0,1,0.99,99.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10707,12.2,16,163,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10708,4.0,4,180,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10709,10.3,3,34,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10710,11.5,17,41,1,1,1,0,1,0,1,0.89,89.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10711,9.0,18,307,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10712,7.2,3,431,0,0,1,1,1,0,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10713,6.3,6,338,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10714,5.4,9,314,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10715,14.0,17,75,1,1,1,1,1,0,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10716,12.5,18,441,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10717,14.5,3,279,1,1,1,0,1,1,1,0.98,98.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10718,2.0,9,176,1,1,0,1,0,0,0,0.01,1.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10719,11.0,0,384,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10720,14.1,17,150,1,0,1,0,1,0,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10721,2.9,4,273,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10722,1.2,14,325,0,0,0,1,1,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10723,11.2,16,108,1,1,1,0,0,0,1,1.0,100.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10724,8.7,2,139,1,1,1,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10725,12.7,11,350,1,1,0,0,0,1,0,0.03,3.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10726,2.3,1,271,1,0,1,0,0,1,0,0.03,3.0,Pleadings complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10727,12.0,0,347,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10728,3.2,16,419,1,1,1,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10729,2.6,15,289,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10730,2.6,4,212,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10731,12.3,14,381,1,1,1,0,0,0,1,0.94,94.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10732,10.0,2,272,0,0,0,1,1,1,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10733,7.9,6,418,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10734,5.5,10,66,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10735,13.2,9,483,1,1,1,0,1,0,1,0.93,93.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10736,6.0,8,424,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10737,12.3,13,248,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10738,6.7,12,156,0,1,1,0,0,0,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10739,5.8,1,47,0,0,0,0,1,1,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10740,7.0,2,423,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10741,4.7,6,454,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10742,11.3,17,201,1,0,1,0,1,0,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10743,7.6,2,148,1,1,1,0,1,1,1,0.99,99.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10744,3.6,9,124,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10745,13.5,6,1,1,0,0,0,1,1,0,0.01,1.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10746,5.9,8,456,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10747,8.2,16,247,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10748,13.6,10,343,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10749,9.4,6,128,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10750,1.9,13,191,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10751,14.1,18,67,0,1,1,0,0,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10752,9.5,3,4,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10753,5.2,5,442,1,1,0,0,1,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10754,2.3,9,409,1,1,0,0,1,0,0,0.05,5.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10755,12.0,6,303,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10756,9.4,12,294,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10757,8.1,13,143,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10758,13.4,3,191,1,0,1,0,1,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10759,11.9,7,21,1,0,1,0,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10760,2.4,4,227,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10761,4.8,0,313,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10762,3.9,3,117,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10763,11.2,2,437,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10764,0.7,8,302,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10765,8.6,7,142,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10766,11.5,0,484,1,1,0,0,0,0,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10767,13.2,5,460,1,1,1,1,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10768,5.3,8,401,1,0,1,0,1,0,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10769,12.4,6,39,1,1,0,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10770,1.8,3,393,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10771,12.7,12,355,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10772,2.1,16,252,0,1,0,0,1,0,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10773,6.1,1,333,1,1,0,0,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10774,12.0,4,207,1,0,1,0,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10775,2.4,11,210,1,1,0,0,0,0,0,0.04,4.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10776,3.6,7,115,1,1,0,0,0,0,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10777,10.9,5,225,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10778,10.9,7,134,0,1,1,0,1,0,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10779,9.7,17,251,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10780,10.5,2,219,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10781,8.2,11,407,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10782,3.9,2,443,1,0,0,0,1,1,0,0.01,1.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10783,5.3,5,91,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10784,2.9,1,354,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10785,13.6,11,376,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10786,8.8,1,46,1,0,1,0,1,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10787,6.1,5,38,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10788,7.0,16,142,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10789,14.2,2,100,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10790,2.5,1,328,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10791,8.9,19,190,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10792,7.7,7,35,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10793,9.2,11,147,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10794,0.5,3,30,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10795,13.1,4,334,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10796,14.0,12,84,0,1,1,0,0,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10797,8.6,14,369,1,0,1,0,0,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10798,10.5,15,281,0,1,1,0,1,0,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10799,13.9,9,424,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10800,10.7,15,344,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10801,2.5,11,270,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10802,8.7,16,154,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10803,9.2,15,102,0,1,1,0,1,1,0,0.04,4.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10804,6.5,11,215,0,0,0,1,1,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10805,11.1,7,150,0,0,1,0,0,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10806,14.0,19,432,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10807,13.9,2,83,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10808,6.9,15,110,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10809,1.9,12,435,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10810,14.8,18,387,0,1,1,0,0,1,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10811,12.6,7,426,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10812,2.0,4,275,1,1,1,0,1,1,1,0.97,97.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10813,13.8,19,201,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10814,13.1,7,284,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10815,7.9,11,468,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10816,9.0,0,173,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10817,6.1,19,327,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10818,1.0,5,206,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10819,5.2,17,63,0,1,1,0,0,0,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10820,12.1,7,73,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10821,0.3,6,251,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10822,5.1,0,124,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10823,6.1,15,375,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10824,8.2,11,121,1,1,1,1,1,1,0,0.05,5.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10825,13.8,5,275,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10826,5.3,19,431,1,1,1,0,0,1,1,0.93,93.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10827,5.3,1,398,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10828,11.1,13,120,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10829,6.9,3,422,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10830,3.5,0,437,1,1,1,0,0,1,1,0.96,96.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10831,6.9,17,317,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10832,2.3,12,164,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10833,2.8,1,424,1,0,1,0,0,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10834,7.6,8,465,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10835,6.4,1,286,1,1,1,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10836,13.7,8,265,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10837,5.6,0,320,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10838,8.8,10,161,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10839,9.6,2,376,0,1,0,0,1,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10840,0.4,19,308,0,0,0,0,1,1,0,0.01,1.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10841,10.0,3,89,1,1,1,0,1,0,1,0.92,92.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10842,2.8,17,142,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10843,14.4,5,203,1,1,1,0,0,0,1,0.98,98.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10844,2.4,2,309,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10845,6.3,10,227,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10846,1.5,14,489,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10847,15.0,4,443,0,1,1,1,1,1,0,0.03,3.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10848,7.6,19,334,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10849,9.0,9,222,1,1,0,0,1,0,0,0.03,3.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10850,1.2,11,41,1,0,0,0,0,0,0,0.01,1.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10851,11.3,14,196,1,0,1,0,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10852,3.3,16,68,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10853,13.5,9,476,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10854,3.2,5,264,0,0,1,0,0,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10855,3.0,17,2,0,0,1,1,1,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10856,0.7,12,361,1,1,1,1,1,0,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10857,7.2,2,125,1,0,1,0,1,1,0,0.03,3.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10858,8.6,9,110,1,1,0,0,0,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10859,1.2,13,86,1,1,1,0,1,0,1,0.96,96.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10860,11.7,5,425,0,1,1,0,0,1,0,0.01,1.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10861,6.9,2,120,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10862,8.0,15,127,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10863,6.7,6,255,1,0,1,0,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10864,6.1,19,183,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10865,8.5,13,16,0,0,0,1,1,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10866,2.5,8,477,0,0,1,1,1,1,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10867,2.9,14,62,0,1,0,0,0,0,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10868,13.0,2,369,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10869,14.2,1,432,1,0,1,0,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10870,5.7,1,158,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10871,4.2,2,268,1,1,1,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10872,9.7,17,35,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10873,6.2,13,267,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10874,0.6,19,64,0,1,0,1,1,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10875,2.5,17,494,1,0,1,1,0,1,0,0.01,1.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10876,10.8,9,50,0,0,0,0,1,0,0,0.01,1.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10877,10.0,1,469,0,1,0,0,1,0,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10878,0.6,0,255,0,1,1,0,1,0,0,0.07,7.0,Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10879,3.5,3,149,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10880,3.6,13,325,0,0,0,1,0,0,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10881,10.1,0,304,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10882,0.5,13,276,1,0,0,0,1,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10883,1.7,15,357,1,1,0,0,1,1,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10884,12.0,13,451,1,0,1,0,1,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10885,2.8,19,172,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10886,9.9,2,417,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10887,3.7,2,201,1,0,0,1,0,1,0,0.0,0.0,Pleadings complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10888,1.7,8,445,0,1,1,0,0,0,0,0.03,3.0,Evidence complete | Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10889,3.8,5,393,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10890,10.9,12,324,0,0,1,0,0,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10891,12.9,1,35,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10892,12.5,7,465,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10893,6.1,1,482,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10894,10.1,3,216,1,0,1,0,1,1,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10895,3.2,14,480,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10896,4.5,3,65,1,1,1,1,1,1,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10897,13.5,12,8,1,1,1,0,0,0,1,0.95,95.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10898,0.4,11,301,0,0,0,0,1,1,0,0.01,1.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10899,1.5,12,343,0,0,1,1,1,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10900,3.3,13,431,0,0,0,1,1,0,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10901,0.6,19,424,0,0,0,1,1,1,0,0.0,0.0,Further procedural review required,Consider listing pending I.A. for appropriate orders
+NY10902,2.9,17,332,1,1,1,1,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10903,8.8,5,438,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider scheduling/completing evidence
+NY10904,6.4,10,76,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10905,13.4,1,174,0,0,1,0,1,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10906,12.3,18,47,1,1,0,1,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10907,5.3,18,15,0,0,1,1,1,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10908,4.0,4,361,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Lower adjournment burden,Consider scheduling/completing evidence
+NY10909,5.8,18,147,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10910,8.9,1,26,0,0,1,1,1,1,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10911,4.2,9,308,0,0,1,1,1,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10912,9.4,1,93,1,1,0,0,1,0,0,0.03,3.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10913,6.3,10,406,1,0,0,0,0,1,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10914,8.4,17,232,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10915,6.7,14,21,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10916,4.6,8,307,1,0,1,1,0,0,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10917,14.2,18,38,0,0,1,1,1,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10918,11.5,8,276,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10919,2.3,2,157,0,0,1,1,0,1,0,0.0,0.0,Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10920,13.1,8,179,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10921,7.4,13,132,0,0,0,0,0,0,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10922,13.4,18,311,1,0,1,0,1,0,0,0.04,4.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10923,12.0,6,455,0,1,0,1,1,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10924,6.5,15,348,1,1,1,0,0,0,1,0.98,98.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10925,0.5,15,28,0,1,0,1,0,1,0,0.0,0.0,Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10926,4.2,0,260,1,1,1,0,0,1,1,0.95,95.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10927,8.2,3,406,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10928,9.6,3,76,1,1,0,0,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10929,4.0,6,429,1,1,1,0,0,1,1,0.94,94.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application,Consider listing for final hearing/disposal
+NY10930,2.3,7,67,1,0,1,1,1,1,0,0.0,0.0,Pleadings complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10931,12.6,16,342,1,1,0,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10932,14.8,4,492,1,1,0,0,1,0,0,0.12,12.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10933,8.0,6,194,1,0,1,0,1,0,0,0.02,2.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10934,2.7,19,472,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10935,4.2,19,162,0,0,1,0,1,0,0,0.01,1.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10936,0.5,3,347,0,1,0,1,0,0,0,0.0,0.0,Evidence complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10937,13.7,5,439,1,1,1,1,1,1,0,0.03,3.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10938,1.9,6,361,0,0,0,0,1,0,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10939,8.7,17,257,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10940,4.3,4,72,1,1,1,0,1,0,1,0.89,89.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final hearing/disposal
+NY10941,8.4,19,87,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10942,9.8,2,422,1,1,1,1,0,1,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10943,12.5,6,262,1,0,0,0,1,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10944,3.3,13,214,0,0,1,1,1,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10945,0.4,6,153,0,1,1,1,0,1,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10946,2.2,4,210,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10947,13.5,4,401,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10948,13.1,1,61,0,0,1,1,1,0,0,0.0,0.0,Arguments complete | Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10949,9.0,5,268,1,1,0,0,0,0,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10950,9.1,14,262,0,0,1,1,0,0,0,0.0,0.0,Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10951,10.0,9,218,0,0,0,1,0,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10952,2.8,6,283,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10953,13.7,4,136,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10954,6.4,0,467,0,0,1,0,1,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10955,5.9,12,380,1,0,0,1,1,1,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10956,7.9,17,362,1,1,1,1,0,0,0,0.01,1.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10957,0.9,12,449,1,1,0,0,1,1,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application,Consider listing for final arguments
+NY10958,2.7,17,441,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10959,11.1,4,93,1,1,0,0,1,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10960,1.4,12,109,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10961,9.1,3,241,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10962,3.8,16,355,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10963,6.0,2,424,1,1,0,0,0,1,0,0.02,2.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10964,4.5,16,142,1,1,1,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10965,5.5,10,291,1,1,0,1,1,0,0,0.0,0.0,Pleadings complete | Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10966,10.8,19,432,0,1,0,1,0,1,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10967,4.6,3,237,1,1,0,0,0,0,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Lower adjournment burden,Consider listing for final arguments
+NY10968,8.6,1,340,1,1,0,0,1,1,0,0.01,1.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Consider listing for final arguments
+NY10969,7.2,19,312,0,1,1,0,1,0,0,0.0,0.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10970,10.0,15,177,1,0,1,1,1,0,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10971,14.1,17,141,0,0,0,1,0,0,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
+NY10972,11.0,7,189,0,1,1,0,1,0,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10973,3.4,2,486,0,1,1,1,0,0,0,0.0,0.0,Evidence complete | Arguments complete | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10974,0.7,8,49,1,0,0,1,1,1,0,0.01,1.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10975,4.1,19,302,0,1,1,1,1,0,0,0.0,0.0,Evidence complete | Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10976,9.0,5,369,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10977,1.0,9,190,0,0,1,1,0,0,0,0.0,0.0,Arguments complete,Consider listing pending I.A. for appropriate orders
+NY10978,7.5,9,136,1,0,1,0,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10979,9.0,12,43,1,0,1,0,1,0,0,0.01,1.0,Pleadings complete | Arguments complete | No pending interlocutory application | Older pending case,Consider scheduling/completing evidence
+NY10980,5.1,16,404,1,1,0,0,1,1,0,0.0,0.0,Pleadings complete | Evidence complete | No pending interlocutory application | Older pending case,Consider listing for final arguments
+NY10981,11.6,8,380,1,1,1,0,1,1,1,0.95,95.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10982,1.8,16,353,1,0,0,0,0,0,0,0.0,0.0,Pleadings complete | No pending interlocutory application,Consider scheduling/completing evidence
+NY10983,1.3,8,90,1,0,0,1,1,0,0,0.0,0.0,Pleadings complete,Consider listing pending I.A. for appropriate orders
+NY10984,11.0,8,295,1,1,1,0,0,0,1,0.99,99.0,Pleadings complete | Evidence complete | Arguments complete | No pending interlocutory application | Older pending case,Consider listing for final hearing/disposal
+NY10985,7.5,0,341,0,0,0,0,0,1,0,0.0,0.0,No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10986,10.4,1,245,0,1,1,0,0,1,0,0.02,2.0,Evidence complete | Arguments complete | No pending interlocutory application | Older pending case | Lower adjournment burden,Complete pending pleadings/procedural requirements
+NY10987,6.6,15,433,0,1,0,1,1,0,0,0.0,0.0,Evidence complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10988,3.8,0,192,0,0,0,1,1,0,0,0.0,0.0,Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10989,12.3,9,318,1,0,1,1,0,1,0,0.0,0.0,Pleadings complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10990,12.0,17,106,0,1,1,1,1,1,0,0.0,0.0,Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10991,10.5,7,363,0,0,1,0,0,0,0,0.0,0.0,Arguments complete | No pending interlocutory application | Older pending case,Complete pending pleadings/procedural requirements
+NY10992,4.2,10,310,0,0,1,0,0,1,0,0.0,0.0,Arguments complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10993,8.9,1,382,0,0,0,1,1,0,0,0.0,0.0,Older pending case | Lower adjournment burden,Consider listing pending I.A. for appropriate orders
+NY10994,5.5,7,233,1,0,0,1,0,0,0,0.0,0.0,Pleadings complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10995,1.6,7,265,1,1,0,1,0,0,0,0.0,0.0,Pleadings complete | Evidence complete,Consider listing pending I.A. for appropriate orders
+NY10996,13.8,16,344,1,1,1,1,1,1,0,0.02,2.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10997,2.2,14,37,0,1,0,0,0,1,0,0.0,0.0,Evidence complete | No pending interlocutory application,Complete pending pleadings/procedural requirements
+NY10998,14.3,16,305,1,1,1,1,0,1,0,0.04,4.0,Pleadings complete | Evidence complete | Arguments complete | Older pending case,Consider listing pending I.A. for appropriate orders
+NY10999,6.8,12,41,0,0,0,1,0,1,0,0.0,0.0,Older pending case,Consider listing pending I.A. for appropriate orders
